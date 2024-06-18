@@ -1,0 +1,13 @@
+C:\Users\MyPC\source\repos\CaesarСipher\CaesarСipher\bin\Debug\CaesarСipher.exe.config
+C:\Users\MyPC\source\repos\CaesarСipher\CaesarСipher\bin\Debug\CaesarСipher.exe
+C:\Users\MyPC\source\repos\CaesarСipher\CaesarСipher\bin\Debug\CaesarСipher.pdb
+C:\Users\MyPC\source\repos\CaesarСipher\CaesarСipher\obj\Debug\CaesarСipher.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\CaesarСipher\CaesarСipher\obj\Debug\CaesarСipher.CaesarCipherForm.resources
+C:\Users\MyPC\source\repos\CaesarСipher\CaesarСipher\obj\Debug\CaesarСipher.Properties.Resources.resources
+C:\Users\MyPC\source\repos\CaesarСipher\CaesarСipher\obj\Debug\CaesarСipher.csproj.GenerateResource.cache
+C:\Users\MyPC\source\repos\CaesarСipher\CaesarСipher\obj\Debug\CaesarСipher.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\CaesarСipher\CaesarСipher\obj\Debug\CaesarСipher.exe
+C:\Users\MyPC\source\repos\CaesarСipher\CaesarСipher\obj\Debug\CaesarСipher.pdb
+C:\Users\MyPC\source\repos\CaesarСipher\CaesarСipher\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MyPC\source\repos\CaesarСipher\CaesarСipher\obj\Debug\CaesarСipher.csproj.Fody.CopyLocal.cache
+C:\Users\MyPC\source\repos\CaesarСipher\CaesarСipher\obj\Debug\CaesarСi.E67B8DC0.Up2Date
